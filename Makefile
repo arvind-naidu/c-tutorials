@@ -1,8 +1,8 @@
 CFLAGS=-Wall -g
 
-all: ex1 ex3 ex4 ex5 ex6
+all: ex1 ex3 ex4 ex5 ex6 ex7
 
 clean:
-	rm -rf ex1 ex3 ex4 ex5 ex6
+	rm -rf ex1 ex3 ex4 ex5 ex6 ex7
 
 .PHONY: all clean
